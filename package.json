@@ -1,0 +1,19 @@
+{
+  "name": "steam-badges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jack Nolddor",
+  "license": "Apache License 2.0",
+    "engines": {
+        "node": ">=18.0"
+    },
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
