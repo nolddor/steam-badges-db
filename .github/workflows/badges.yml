@@ -1,0 +1,36 @@
+name: Badges Update (Hourly)
+
+on:
+  schedule:
+    # * is a special character in YAML so we have to quote this string
+    - cron:  '0 */1 * * *' # every 1 hour
+
+jobs:
+    Update-Badges-Job:
+        runs-on: ubuntu-latest
+
+        steps:
+        - name: Checkout Code
+          uses: actions/checkout@v3
+
+        - name: Setup Node.js
+          uses: actions/setup-node@v3
+          with:
+            node-version: 18
+
+        - name: Verify Node.js
+          run: node --version
+        - name: Verify NPM
+          run: npm --version
+
+        - name: Download Dependencies
+          run: npm i
+
+        - name: Run SteamCardExchange Scrapper
+          run: npm start
+
+        - name: Sync Changes
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: Automatic badges.json update
+            file_pattern: 'data/badges.json'
