@@ -7,7 +7,7 @@
 ---
 ### Description
 
-_Steam Badge DB_ repository offers an up-to-date database about all existing Steam apps having trading cards as JSON file intended to be used primarly by Steam Level Up Bots and similar services.
+_Steam Badge DB_ repository offers an up-to-date database about all existing Steam apps having trading cards as JSON file. It's intended to be mainly used by Steam Level Up Bots and similar services as single source of truth.
 
 File **[badges.json](https://github.com/nolddor/steam-badges-db/raw/main/data/badges.json)** is updated hourly and it includes appid, name and badge size.
 ```
