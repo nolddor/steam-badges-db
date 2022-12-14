@@ -1,7 +1,13 @@
+<div align="center">
 
-[![Github Last Update](https://img.shields.io/github/last-commit/nolddor/steam-badges-db?label=Last%20Update&logo=github)](https://github.com/nolddor/steam-badges-db/commits)
+![Alt](https://github.com/nolddor/steam-badges-db/raw/main/resources/banner.png "Steam Badges DB")
+
+</div>
+
 ---
-An up-to-date database about all existing Steam apps having trading cards.
+### Description
+
+_Steam Badge DB_ repository offers an up-to-date database about all existing Steam apps having trading cards as JSON file intended to be used primarly by Steam Level Up Bots and similar services.
 
 File **[badges.json](https://github.com/nolddor/steam-badges-db/raw/main/data/badges.json)** is updated hourly and it includes appid, name and badge size.
 ```
@@ -18,3 +24,6 @@ File **[badges.json](https://github.com/nolddor/steam-badges-db/raw/main/data/ba
     ... more content ...
 }
 ```
+
+---
+Made with :heart: by [Jack Nolddor](https://steamcommunity.com/id/nolddor)
