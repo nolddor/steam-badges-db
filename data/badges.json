@@ -46611,6 +46611,10 @@
         "name": "Soul Hackers 2",
         "size": 10
     },
+    "1782120": {
+        "name": "ZERO Sievert",
+        "size": 5
+    },
     "1782330": {
         "name": "Green Hell VR",
         "size": 9
@@ -47138,5 +47142,9 @@
     "2185770": {
         "name": "Aonatsu Line",
         "size": 12
+    },
+    "2243720": {
+        "name": "Steam Awards - 2022",
+        "size": 11
     }
 }
