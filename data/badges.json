@@ -38800,7 +38800,7 @@
         "size": 7
     },
     "858630": {
-        "name": "Aquaculture Land: Fish Farming Simulation",
+        "name": "Aquaculture Land",
         "size": 5
     },
     "858940": {
@@ -41206,6 +41206,10 @@
     "1047440": {
         "name": "DATE A LIVE: Rio Reincarnation",
         "size": 7
+    },
+    "1047870": {
+        "name": "Something Ate My Alien",
+        "size": 6
     },
     "1048100": {
         "name": "Peekaboo",
@@ -46921,6 +46925,10 @@
     },
     "1907900": {
         "name": "Halftime Heroes",
+        "size": 6
+    },
+    "1911800": {
+        "name": "Atari Mania",
         "size": 6
     },
     "1913490": {
