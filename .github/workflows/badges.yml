@@ -28,9 +28,14 @@ jobs:
 
         - name: Run SteamCardExchange Scrapper
           run: npm start
+          
+        - name: Minify JSON
+          uses: sergeysova/jq-action@v2
+          with:
+            cmd: jq -r tostring data/badges.json > data/badges.min.json
 
         - name: Sync Changes
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
             commit_message: Automatic badges.json update
-            file_pattern: 'data/badges.json'
+            file_pattern: 'data/*.json'
