@@ -5,6 +5,14 @@
 </div>
 
 ---
+
+<div align="center">
+
+![Alt](https://repobeats.axiom.co/api/embed/172037d379e6f08cdcefa56905abf10a8ab8b5f2.svg "Repobeats analytics image")
+
+</div>
+
+---
 ### Description
 
 _Steam Badge DB_ repository offers up-to-date information about all existing Steam apps having trading cards as a single JSON file. It's intended to be mainly used by Steam level up bots and similar services, as single source of truth.
