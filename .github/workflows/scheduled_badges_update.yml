@@ -24,7 +24,7 @@ jobs:
           run: npm --version
 
         - name: Download Dependencies
-          run: npm i
+          run: npm ci
 
         - name: Run SteamCardExchange Scrapper
           run: npm start
