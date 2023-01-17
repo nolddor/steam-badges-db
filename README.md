@@ -1,6 +1,6 @@
 <div align="center">
 
-![Alt](https://github.com/nolddor/steam-badges-db/raw/main/resources/banner.png "Steam Badges DB")
+![Steam Badges DB](https://github.com/nolddor/steam-badges-db/raw/main/resources/banner.png "Steam Badges DB logo")
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Alt](https://repobeats.axiom.co/api/embed/172037d379e6f08cdcefa56905abf10a8ab8b5f2.svg "Repobeats analytics image")
+![Repobeats analytics](https://repobeats.axiom.co/api/embed/172037d379e6f08cdcefa56905abf10a8ab8b5f2.svg "Repobeats analytics image")
 
 </div>
 
