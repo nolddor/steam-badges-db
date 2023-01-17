@@ -3,7 +3,7 @@ name: SteamBadgesDB-ci
 on: [push, pull_request]
 
 jobs:
-  build_&_test:
+  build_and_test:
     strategy:
       fail-fast: false
       matrix:
