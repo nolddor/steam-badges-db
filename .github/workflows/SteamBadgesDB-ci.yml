@@ -28,5 +28,5 @@ jobs:
     - name: Verify NPM
       run: npm --version
         
-    - name: Build & Test (${{ matrix.configuration }})
+    - name: Build & Test (${{ matrix.os }})
       run: npm ci && npm test
