@@ -1,4 +1,4 @@
-name: Scheduled Badges Update (Hourly)
+name: SteamBadgesDB-self-update
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
     - cron:  '0 */1 * * *' # every 1 hour
 
 jobs:
-    Update-Badges-Job:
+    self-update:
         runs-on: ubuntu-latest
 
         steps:
