@@ -27,6 +27,18 @@ jobs:
       run: node --version
     - name: Verify NPM
       run: npm --version
+      
+    - name: Cache Node Modules
+      id: cache
+      uses: actions/cache@v3
+      with:
+        path: node_modules
+        key: node-modules-${{ hashFiles('package-lock.json') }}
+        enableCrossOsArchive: true
         
-    - name: Build & Test (${{ matrix.os }})
-      run: npm ci && npm test
+    - name: Install NPM Dependencies
+      if: steps.cache.outputs.cache-hit != 'true'
+      run: npm ci
+      
+    - name: Run Tests (${{ matrix.os }})
+      run: npm test
