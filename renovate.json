@@ -1,6 +1,13 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:js-app",
+    "npm:unpublishSafe",
+    ":automergeBranch",
+    ":automergeAll",
+    ":disableDependencyDashboard",
+    ":disableRateLimiting",
+    ":assignee(nolddor)",
+    ":label(🤖 Automatic)"
   ]
 }
