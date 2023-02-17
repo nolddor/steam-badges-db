@@ -18,10 +18,10 @@ jobs:
           with:
             node-version: 18
 
-        - name: Verify Node.js
-          run: node --version
-        - name: Verify NPM
-          run: npm --version
+        - name: Verify Node.js & npm Versions
+          run: |
+            node --version
+            npm --version
 
         - name: Cache Node Modules
           id: cache

@@ -42,5 +42,5 @@ jobs:
       
     - name: Lint & Testing (${{ matrix.os }})
       run: |
-        npm lint
+        npm run lint
         npm test
