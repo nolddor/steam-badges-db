@@ -23,12 +23,12 @@ jobs:
       with:
         node-version: ${{ matrix.node }}
         
-    - name: Verify Node.js
+    - name: Verify Node.js Version
       run: node --version
-    - name: Verify NPM
+    - name: Verify npm Version
       run: npm --version
       
-    - name: Cache Node Modules
+    - name: Cache Node.js Modules
       id: cache
       uses: actions/cache@v3
       with:
@@ -36,9 +36,12 @@ jobs:
         key: node-modules-${{ hashFiles('package-lock.json') }}
         enableCrossOsArchive: true
         
-    - name: Install NPM Dependencies
+    - name: Install npm Dependencies
       if: steps.cache.outputs.cache-hit != 'true'
       run: npm ci
       
-    - name: Run Tests (${{ matrix.os }})
+    - name: Run Lint (${{ matrix.os }})
+      run: npm run lint
+
+    - name: Run Test (${{ matrix.os }})
       run: npm test
