@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node index.js",
     "lint": "eslint .",
-    "test": "jest"
+    "lint:fix": "eslint . --fix",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [
     "steam"
