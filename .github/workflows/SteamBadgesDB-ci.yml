@@ -44,4 +44,4 @@ jobs:
       run: npm run lint
 
     - name: Run Test (${{ matrix.os }})
-      run: npm test -- --verbose
+      run: npm run test:coverage -- --verbose
