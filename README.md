@@ -34,4 +34,30 @@ File **[badges.json](https://github.com/nolddor/steam-badges-db/raw/main/data/ba
 ```
 
 ---
+### Usage
+
+_Steam Badges DB_ data is widely available and can be retrieved on a great variety of ways, from your terminal to your custom crafted scripts. See examples about most common use cases below:
+
+#### CLI
+```
+curl -L https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json
+```
+
+#### Node.js
+```
+import axios from 'axios';
+
+axios.get('https://raw.githubusercontent.com/nolddor/steam-badges-db/main/data/badges.min.json')
+    .then(function (response) {
+        const badgedb = response.data;
+        // Your code goes here
+    });
+```
+
+#### Java
+```
+Coming Soon...
+```
+
+---
 Made with :heart: by [Jack Nolddor](https://steamcommunity.com/id/nolddor)
