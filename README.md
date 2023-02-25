@@ -47,16 +47,34 @@ curl -L https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json
 ```
 import axios from 'axios';
 
-axios.get('https://raw.githubusercontent.com/nolddor/steam-badges-db/main/data/badges.min.json')
+axios.get('https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json')
     .then(function (response) {
-        const badgedb = response.data;
+        const badgesdb = response.data;
         // Your code goes here
     });
 ```
 
 #### Java
 ```
-Coming Soon...
+import kong.unirest.*;
+
+public class Main {
+	public static void main(String[] args) {
+		String endpoint = "https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json";
+		HttpResponse<JsonNode> response = Unirest.get(endpoint).asJson();
+		JsonNode badgesdb = response.getBody();
+		// Your code goes here
+	}
+}
+```
+
+#### Python
+```
+import requests
+
+response = requests.get("https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json")
+badgesdb = response.json()
+// Your code goes here
 ```
 
 ---
