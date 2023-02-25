@@ -15,7 +15,7 @@
 ---
 ### Description
 
-_Steam Badges DB_ repository offers up-to-date information about all existing Steam apps having trading cards as a single JSON file. It's intended to be mainly used by Steam level up bots and similar services, as single source of truth.
+_Steam Badges DB_ repository offers up-to-date information about all existing Steam apps having trading cards as a single JSON file. It's intended to be used by Steam level up bots and similar services, as a single source of truth.
 
 File **[badges.json](https://github.com/nolddor/steam-badges-db/raw/main/data/badges.json)** (_[compressed](https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json)_) is updated hourly and it includes appid, name and badge size.
 ```
@@ -60,8 +60,8 @@ import kong.unirest.*;
 
 public class Main {
     public static void main(String[] args) {
-        String endpoint = "https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json";
-	HttpResponse<JsonNode> response = Unirest.get(endpoint).asJson();
+        String url = "https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json";
+	HttpResponse<JsonNode> response = Unirest.get(url).asJson();
 	JsonNode badgesdb = response.getBody();
 	// Your code goes here
     }
