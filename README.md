@@ -59,12 +59,12 @@ axios.get('https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.j
 import kong.unirest.*;
 
 public class Main {
-	public static void main(String[] args) {
-		String endpoint = "https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json";
-		HttpResponse<JsonNode> response = Unirest.get(endpoint).asJson();
-		JsonNode badgesdb = response.getBody();
-		// Your code goes here
-	}
+    public static void main(String[] args) {
+        String endpoint = "https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json";
+	HttpResponse<JsonNode> response = Unirest.get(endpoint).asJson();
+	JsonNode badgesdb = response.getBody();
+	// Your code goes here
+    }
 }
 ```
 
