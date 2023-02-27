@@ -45,7 +45,7 @@ curl -L https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json
 
 #### Node.js
 ```
-import axios from 'axios';
+const axios = require('axios');
 
 axios.get('https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json')
     .then(function (response) {
@@ -74,6 +74,16 @@ import requests
 
 response = requests.get("https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json")
 badgesdb = response.json()
+// Your code goes here
+```
+
+#### Ruby
+```
+require 'httparty'
+
+url = 'https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json'
+response = HTTParty.get(url, format: :json)
+badgesdb = response.parsed_response
 // Your code goes here
 ```
 
