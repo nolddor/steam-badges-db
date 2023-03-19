@@ -10731,6 +10731,10 @@
         "name": "Catacombs of the Undercity",
         "size": 6
     },
+    "352520": {
+        "name": "The Silent Age",
+        "size": 5
+    },
     "352550": {
         "name": "Urban Empire",
         "size": 9
@@ -39766,6 +39770,10 @@
     "922500": {
         "name": "KILL la KILL -IF",
         "size": 8
+    },
+    "922700": {
+        "name": "Hidden Animals: Photo Hunt - Worldwide Safari",
+        "size": 5
     },
     "922710": {
         "name": "Knightin'+",
