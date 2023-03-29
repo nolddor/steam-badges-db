@@ -25183,6 +25183,10 @@
         "name": "SCUM",
         "size": 7
     },
+    "513720": {
+        "name": "Archipelago",
+        "size": 5
+    },
     "513780": {
         "name": "Turbo Pug DX",
         "size": 5
@@ -27778,6 +27782,10 @@
     "546080": {
         "name": "Coffin of Ashes",
         "size": 10
+    },
+    "546090": {
+        "name": "Trip to Vinelands",
+        "size": 5
     },
     "546120": {
         "name": "Pursuit of Power 2 : The Chaos Dimension",
