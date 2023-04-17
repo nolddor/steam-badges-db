@@ -32575,6 +32575,10 @@
         "name": "Dustwind",
         "size": 5
     },
+    "600510": {
+        "name": "Ginsha",
+        "size": 9
+    },
     "600520": {
         "name": "Cryogear",
         "size": 5
@@ -45850,6 +45854,10 @@
     "1458100": {
         "name": "Cozy Grove",
         "size": 8
+    },
+    "1458590": {
+        "name": "Anime Artist 3: Harem",
+        "size": 5
     },
     "1459960": {
         "name": "Glitchpunk",
