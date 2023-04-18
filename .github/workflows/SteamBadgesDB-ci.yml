@@ -11,6 +11,7 @@ jobs:
         node: [18, 19]
 
     runs-on: ${{ matrix.os }}
+    timeout-minutes: 5
 
     steps:
     - name: Checkout Code
