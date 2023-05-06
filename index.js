@@ -13,8 +13,8 @@ async function main() {
     const cache = JSONStorage.load(dir, file)
     const badges = { ...cache, ...sce }
 
-    const count = new Number(Object.keys(badges).length).toLocaleString('en-US')
-    Logger.info(`Found ${count} Steam apps having trading cards.`)
+    const count = Object.keys(badges).length
+    Logger.info(`Found ${count.toLocaleString('en-US')} Steam apps having trading cards.`)
 
     JSONStorage.save(dir, file, badges, { minify: false })
     JSONStorage.save(dir, compressed, badges)
