@@ -19,6 +19,7 @@ module.exports = {
             named: 'never',
             asyncArrow: 'always'
         }],
-        'quote-props': ['error', 'consistent-as-needed']
+        'quote-props': ['error', 'consistent-as-needed'],
+        'no-console': 'error'
     }
 }
