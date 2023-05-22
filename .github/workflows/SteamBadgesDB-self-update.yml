@@ -34,7 +34,7 @@ jobs:
 
         - name: Install npm Dependencies
           if: steps.cache.outputs.cache-hit != 'true'
-          run: npm ci
+          run: npm ci --production
 
         - name: Run SteamCardExchange Scrapper
           run: npm start
