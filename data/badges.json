@@ -11511,6 +11511,10 @@
         "name": "Once Bitten, Twice Dead",
         "size": 5
     },
+    "360600": {
+        "name": "99 Waves to Die",
+        "size": 5
+    },
     "360620": {
         "name": "Spellsworn",
         "size": 6
@@ -12350,6 +12354,10 @@
     "368750": {
         "name": "Nebula Online",
         "size": 6
+    },
+    "368760": {
+        "name": "Playing History 3 - Vikings",
+        "size": 5
     },
     "368790": {
         "name": "OreLight",
@@ -14147,6 +14155,10 @@
         "name": "Sentinel 4: Dark Star",
         "size": 5
     },
+    "386870": {
+        "name": "Playing History 2 - Slave Trade",
+        "size": 5
+    },
     "386880": {
         "name": "Rake",
         "size": 7
@@ -15058,6 +15070,10 @@
     "395900": {
         "name": "Backgammon Blitz",
         "size": 8
+    },
+    "395920": {
+        "name": "Playing History - The Plague",
+        "size": 5
     },
     "395930": {
         "name": "Farm Frenzy: Heave Ho",
