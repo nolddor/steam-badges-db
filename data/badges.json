@@ -21207,6 +21207,10 @@
         "name": "The Beggar's Ride",
         "size": 6
     },
+    "463830": {
+        "name": "Izeriya",
+        "size": 5
+    },
     "463860": {
         "name": "Shadows of Kurgansk",
         "size": 5
@@ -28495,6 +28499,10 @@
         "name": "Phantom Brigade",
         "size": 5
     },
+    "553610": {
+        "name": "ArsonVille",
+        "size": 5
+    },
     "553640": {
         "name": "ICEY",
         "size": 7
@@ -34357,6 +34365,10 @@
     },
     "620710": {
         "name": "TankBlitz",
+        "size": 5
+    },
+    "620790": {
+        "name": "The Slopes",
         "size": 5
     },
     "620940": {
@@ -44866,6 +44878,10 @@
     "1316560": {
         "name": "Otaku's Rage: Waifu Strikes Back",
         "size": 6
+    },
+    "1316760": {
+        "name": "Suicide Guy VR",
+        "size": 5
     },
     "1316910": {
         "name": "Super Monkey Ball Banana Mania",
