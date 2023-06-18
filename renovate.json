@@ -8,6 +8,8 @@
     ":disableDependencyDashboard",
     ":disableRateLimiting",
     ":assignee(nolddor)",
-    ":label(🤖 Automatic)"
+    ":label(🤖 Automatic)",
+    ":semanticCommits",
+    ":semanticCommitTypeAll(chore)"
   ]
 }
