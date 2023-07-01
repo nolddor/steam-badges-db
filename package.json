@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "axios": "1.4.0",
-    "winston": "3.8.2"
+    "winston": "3.9.0"
   },
   "devDependencies": {
     "eslint": "8.43.0",
