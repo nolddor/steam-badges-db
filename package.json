@@ -27,6 +27,6 @@
     "eslint": "8.45.0",
     "eslint-config-standard": "17.1.0",
     "jest": "29.6.1",
-    "memfs": "3.5.3"
+    "memfs": "4.2.0"
   }
 }
