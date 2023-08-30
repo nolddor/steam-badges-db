@@ -3,6 +3,7 @@
   "extends": [
     "config:js-app",
     "npm:unpublishSafe",
+    ":maintainLockFilesWeekly",
     ":rebaseStalePrs",
     ":automergePr",
     ":automergeAll",
