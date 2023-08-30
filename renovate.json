@@ -4,7 +4,7 @@
     "config:js-app",
     "npm:unpublishSafe",
     ":rebaseStalePrs",
-    ":automergeBranch",
+    ":automergePr",
     ":automergeAll",
     ":disableDependencyDashboard",
     ":disableRateLimiting",
