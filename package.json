@@ -7,8 +7,7 @@
     "start": "node  --max-old-space-size=256 --optimize-for-size index.js",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "test": "jest",
-    "test:coverage": "jest --coverage"
+    "test": "jest"
   },
   "keywords": [
     "steam"
