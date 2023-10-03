@@ -20,6 +20,7 @@ module.exports = {
             asyncArrow: 'always'
         }],
         'quote-props': ['error', 'consistent-as-needed'],
-        'no-console': 'error'
+        'no-console': 'error',
+        'prefer-arrow-callback': 'error'
     }
 }
