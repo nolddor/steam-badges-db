@@ -2,6 +2,9 @@
     "bail": 1,
     "verbose": true,
     "collectCoverage": true,
+    "collectCoverageFrom": [
+      "lib/**/*.{js,jsx}"
+    ],
     "coverageThreshold": {
         "global": {
           "branches": 80,
