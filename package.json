@@ -12,6 +12,7 @@
   "keywords": [
     "steam"
   ],
+  "repository": "github:nolddor/steam-badges-db",
   "author": "Jack Nolddor",
   "license": "Apache License 2.0",
   "engines": {
