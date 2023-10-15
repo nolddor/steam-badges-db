@@ -1,0 +1,87 @@
+name: 🐛 Bug report
+description: Unexpected program behaviour that requires code correction
+labels: ["🐛 Bug", "👀 Evaluation"]
+body:
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Ensure that our bug report form is appropriate for you.
+      options:
+        - label: This is not a **[general question](https://github.com/nolddor/steam-badges-db/discussions) about the project**
+          required: true
+        - label: This is not a **[technical issue](https://github.com/nolddor/steam-badges-db/discussions) coming from my lack of knowledge**
+          required: true
+        - label: This is not a **[support request](https://github.com/nolddor/steam-badges-db/discussions) about this project usage**
+          required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug description
+      description: Short explanation of what you were going to do, what did you want to accomplish?
+      placeholder: |
+        I tried to brew a coffee with SteamBadges using `PUT /Api/Coffee` REST API endpoint, but upon trying the program returned HTTP error: 418 I'm a teapot.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+      placeholder: |
+        I expected my favourite latte macchiato in a cup put below the machine hosting SteamBadges.
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior
+      description: What happened instead?
+      placeholder: |
+        No coffee was brewed, and so I was forced to use a water dispenser instead :/.
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: |
+        Every command or action that happened after launching SteamBadges, which leads to the bug.
+        If launching SteamBadges with provided configs (below) is everything that is needed, then this section is not mandatory.
+        Screenshots of the problem and/or steps leading to it could be very useful in particular.
+      placeholder: |
+        1. Put cup below the machine hosting SteamBadges.
+        2. Send `PUT /Api/Coffee` request selecting latte macchiato.
+        3. No coffee was brewed.
+  - type: textarea
+    id: possible-solution
+    attributes:
+      label: Possible reason/solution
+      description: |
+        Not mandatory, but you can suggest a fix/reason for the bug, if known to you.
+        If you observed something peculiar about your issue that could help us locate and fix the culprit, this is the right place.
+      placeholder: |
+        Perhaps no coffee was brewed because I was out of milk?
+  - type: dropdown
+    id: help
+    attributes:
+      label: Can you help us with this bug report?
+      description: |
+        SteamBadgeDB is offered for free and our resources are limited.
+        Helping us increases the chance of fixing the problem.
+      options:
+        - Yes, I can code the solution myself and send a pull request
+        - Somehow, I can test and offer feedback, but can't code
+        - No, I don't have time, skills or willings for any of that
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional info
+      description: Everything else you consider worthy that we didn't ask for.
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        #### Thank you for taking the time to fill out this form.
