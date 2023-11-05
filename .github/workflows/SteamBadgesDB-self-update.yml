@@ -1,6 +1,7 @@
 name: SteamBadgesDB-self-update
 
 on:
+  workflow_dispatch:
   schedule:
     # * is a special character in YAML so we have to quote this string
     - cron:  '0 */1 * * *' # every 1 hour
