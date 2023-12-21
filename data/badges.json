@@ -39655,6 +39655,10 @@
         "name": "Asterix & Obelix XXL 2",
         "size": 6
     },
+    "887530": {
+        "name": "President Yukino",
+        "size": 7
+    },
     "887720": {
         "name": "Devil's Hunt",
         "size": 9
@@ -39719,12 +39723,24 @@
         "name": "Beauty and the Beast",
         "size": 5
     },
+    "892760": {
+        "name": "Seed of Evil",
+        "size": 5
+    },
     "892980": {
         "name": "My Heart Grows Fonder",
         "size": 5
     },
     "892990": {
         "name": "Sable's Grimoire: A Dragon's Treasure",
+        "size": 5
+    },
+    "893010": {
+        "name": "Slave's Sword",
+        "size": 9
+    },
+    "893020": {
+        "name": "Slave's Sword 2",
         "size": 5
     },
     "893030": {
@@ -39874,6 +39890,10 @@
     "906930": {
         "name": "LEAP",
         "size": 6
+    },
+    "907210": {
+        "name": "Phantom Thief Celianna",
+        "size": 7
     },
     "907250": {
         "name": "GUNGRAVE VR U.N",
@@ -41323,6 +41343,10 @@
         "name": "Legal Dungeon",
         "size": 6
     },
+    "1013870": {
+        "name": "Leanna's Slice of Life",
+        "size": 5
+    },
     "1014050": {
         "name": "Hockey Manager 20|20",
         "size": 9
@@ -42039,6 +42063,10 @@
         "name": "After I met that catgirl, my questlist got too long!",
         "size": 8
     },
+    "1071490": {
+        "name": "Miss Lisette's Assassin Maid",
+        "size": 6
+    },
     "1071870": {
         "name": "Biped",
         "size": 5
@@ -42122,6 +42150,14 @@
     "1078200": {
         "name": "Spirits Abyss",
         "size": 11
+    },
+    "1078320": {
+        "name": "Public Defense Corp",
+        "size": 9
+    },
+    "1078330": {
+        "name": "Liz ~The Tower and the Grimoire~",
+        "size": 5
     },
     "1078350": {
         "name": "Ambrosia",
@@ -43054,6 +43090,10 @@
     "1146970": {
         "name": "My Vow to My Liege",
         "size": 9
+    },
+    "1147450": {
+        "name": "Divine Miko Koyori",
+        "size": 7
     },
     "1147490": {
         "name": "Frontline: Western Front",
@@ -44843,6 +44883,10 @@
         "name": "Kinkoi",
         "size": 14
     },
+    "1278390": {
+        "name": "Succumate",
+        "size": 11
+    },
     "1279260": {
         "name": "Lelie Navigation!",
         "size": 9
@@ -45850,6 +45894,10 @@
     "1377550": {
         "name": "~在魔界当女仆~恶魔天使与勇者的秘密喫茶店",
         "size": 5
+    },
+    "1378040": {
+        "name": "Tear and the Library of Labyrinths",
+        "size": 7
     },
     "1378070": {
         "name": "Drawn to Life: Two Realms",
