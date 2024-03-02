@@ -1,23 +1,20 @@
 const SteamCardExchange = require('./lib/SteamCardExchange')
-const AppDir = require('./lib/AppDir')
 const JSONStorage = require('./lib/JSONStorage')
 const Logger = require('./lib/Logger')
+const EFolders = require('./enum/EFolders')
+const EFiles = require('./enum/EFiles')
 
 async function main() {
-    const dir = AppDir.data()
-    const file = 'badges.json'
-    const compressed = 'badges.min.json'
-
     Logger.info('Connecting to SteamCardExchange...')
     const sce = await SteamCardExchange.getBadges()
-    const cache = JSONStorage.load(dir, file)
+    const cache = JSONStorage.load(EFolders.DATA, EFiles.BADGES)
     const badges = { ...cache, ...sce }
 
     const count = Object.keys(badges).length
     Logger.info(`Found ${count.toLocaleString('en-US')} Steam apps having trading cards.`)
 
-    JSONStorage.save(dir, file, badges, { minify: false })
-    JSONStorage.save(dir, compressed, badges)
+    JSONStorage.save(EFolders.DATA, EFiles.BADGES, badges, { minify: false })
+    JSONStorage.save(EFolders.DATA, EFiles.BADGES_MIN, badges)
 }
 
 main()
