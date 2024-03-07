@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "axios": "1.6.7",
-    "html-entities": "2.4.0",
+    "html-entities": "2.5.0",
     "winston": "3.11.0"
   },
   "devDependencies": {
