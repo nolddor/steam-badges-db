@@ -3,6 +3,7 @@ const JSONStorage = require('./lib/JSONStorage')
 const Logger = require('./lib/Logger')
 const EFolders = require('./enum/EFolders')
 const EFiles = require('./enum/EFiles')
+const ELocales = require('./enum/ELocales')
 
 async function main() {
     Logger.info('Connecting to SteamCardExchange...')
@@ -11,7 +12,8 @@ async function main() {
     const badges = { ...cache, ...sce }
 
     const count = Object.keys(badges).length
-    Logger.info(`Found ${count.toLocaleString('en-US')} Steam apps having trading cards.`)
+    const countAsString = count.toLocaleString(ELocales.en_US)
+    Logger.info(`Found ${countAsString} Steam apps having trading cards.`)
 
     JSONStorage.writeSync(EFolders.DATA, EFiles.BADGES, badges, { minify: false })
     JSONStorage.writeSync(EFolders.DATA, EFiles.BADGES_MIN, badges)
