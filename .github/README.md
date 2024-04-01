@@ -68,6 +68,33 @@ public class Main {
 }
 ```
 
+#### C#
+```
+using System;
+using System.Net.Http;
+using System.Threading.Tasks;
+using System.Text.Json;
+using System.Collections.Generic;
+					
+public class Program
+{
+	public class SteamBadge
+	{
+	        public int size { get; set; }
+		public string name { get; set; }
+	}
+	
+	public static async Task Main()
+	{
+		Uri endpoint = new Uri("https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json");
+		HttpClient client = new();		
+		string jsonAsString = await client.GetStringAsync(endpoint);
+		Dictionary<string, SteamBadge> badgesdb = JsonSerializer.Deserialize<Dictionary<string, SteamBadge>>(jsonAsString);
+		// Your code goes here
+	}
+}
+```
+
 #### Python
 ```
 import requests
