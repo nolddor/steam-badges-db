@@ -1,11 +1,18 @@
 module.exports = {
     env: {
         es2021: true,
-        node: true,
-        jest: true
+        node: true
     },
     extends: 'standard',
     overrides: [
+        {
+            files: ['lib/__tests__/**'],
+            plugins: ['jest'],
+            extends: [
+                'plugin:jest/recommended',
+                'plugin:jest/style'
+            ]
+        }
     ],
     parserOptions: {
         ecmaVersion: 'latest'
