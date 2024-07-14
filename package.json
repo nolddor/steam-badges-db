@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "html-entities": "2.5.2",
-    "winston": "3.13.0"
+    "winston": "3.13.1"
   },
   "devDependencies": {
     "eslint": "8.57.0",
