@@ -1,3 +1,3 @@
 module.exports = Object.freeze({
-    en_US: 'en-US'
+  en_US: 'en-US'
 })
