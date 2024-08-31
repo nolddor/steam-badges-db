@@ -2124,7 +2124,7 @@
         "size": 6
     },
     "233290": {
-        "name": "Murdered: Soul Suspect",
+        "name": "MURDERED: SOUL SUSPECT™",
         "size": 7
     },
     "233350": {
@@ -4144,7 +4144,7 @@
         "size": 6
     },
     "266150": {
-        "name": "Lost Saga NA",
+        "name": "Lost Saga North America",
         "size": 8
     },
     "266210": {
@@ -6172,7 +6172,7 @@
         "size": 5
     },
     "298790": {
-        "name": "Rock Boshers DX: Directors Cut",
+        "name": "Rock Boshers DX: Director's Cut",
         "size": 9
     },
     "298820": {
@@ -10640,7 +10640,7 @@
         "size": 6
     },
     "351030": {
-        "name": "Pixel Puzzles Ultimate Jigsaw",
+        "name": "Pixel Puzzles Ultimate",
         "size": 13
     },
     "351050": {
@@ -45080,7 +45080,7 @@
         "size": 5
     },
     "1271100": {
-        "name": "Deadly Premonition 2: A Blessing in Disguise",
+        "name": "Deadly Premonition 2",
         "size": 5
     },
     "1271300": {
@@ -52109,6 +52109,10 @@
     },
     "2478970": {
         "name": "Tomb Raider I-III Remastered Starring Lara Croft",
+        "size": 6
+    },
+    "2479000": {
+        "name": "2479000",
         "size": 6
     },
     "2480200": {
