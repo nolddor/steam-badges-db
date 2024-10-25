@@ -763,6 +763,10 @@
         "name": "Frozen Synapse",
         "size": 8
     },
+    "98500": {
+        "name": "Naval Warfare",
+        "size": 5
+    },
     "98800": {
         "name": "Dungeons of Dredmor",
         "size": 6
@@ -50580,7 +50584,7 @@
         "size": 5
     },
     "1974520": {
-        "name": "Dusk Pub",
+        "name": "Dusk Pub - Adult Only",
         "size": 9
     },
     "1975180": {
@@ -50626,6 +50630,10 @@
     "1985770": {
         "name": "Nazi Furry",
         "size": 5
+    },
+    "1985960": {
+        "name": "Ogu and the Secret Forest",
+        "size": 15
     },
     "1986840": {
         "name": "POPGOES Arcade",
@@ -52601,6 +52609,10 @@
     },
     "2512200": {
         "name": "Universe in Cum 2 💦 🌎",
+        "size": 5
+    },
+    "2513280": {
+        "name": "SONIC X SHADOW GENERATIONS",
         "size": 5
     },
     "2513580": {
