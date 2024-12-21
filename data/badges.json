@@ -72,11 +72,11 @@
         "size": 11
     },
     "3810": {
-        "name": "BloodRayne",
+        "name": "BloodRayne (Legacy)",
         "size": 5
     },
     "3820": {
-        "name": "BloodRayne 2",
+        "name": "BloodRayne 2 (Legacy)",
         "size": 5
     },
     "3830": {
@@ -96,11 +96,11 @@
         "size": 8
     },
     "4700": {
-        "name": "Total War: MEDIEVAL II - Definitive Edition",
+        "name": "Total War: MEDIEVAL II – Definitive Edition",
         "size": 6
     },
     "4760": {
-        "name": "Rome: Total War",
+        "name": "Rome: Total War™ - Collection",
         "size": 6
     },
     "4920": {
@@ -140,7 +140,7 @@
         "size": 7
     },
     "8930": {
-        "name": "Sid Meier's Civilization V",
+        "name": "Sid Meier's Civilization® V",
         "size": 8
     },
     "9940": {
@@ -148,7 +148,7 @@
         "size": 6
     },
     "10500": {
-        "name": "Total War: EMPIRE - Definitive Edition",
+        "name": "Total War: EMPIRE – Definitive Edition",
         "size": 6
     },
     "11040": {
@@ -176,7 +176,7 @@
         "size": 5
     },
     "11260": {
-        "name": "Pacific Storm: Allies",
+        "name": "Pacific Storm Allies",
         "size": 6
     },
     "11280": {
@@ -192,7 +192,7 @@
         "size": 5
     },
     "13230": {
-        "name": "Unreal Tournament 2004",
+        "name": "Unreal Tournament 2004: Editor's Choice Edition",
         "size": 6
     },
     "15540": {
@@ -280,7 +280,7 @@
         "size": 9
     },
     "24240": {
-        "name": "PAYDAY: The Heist",
+        "name": "PAYDAY™ The Heist",
         "size": 9
     },
     "24960": {
@@ -292,7 +292,7 @@
         "size": 6
     },
     "25800": {
-        "name": "Europa Universalis III",
+        "name": "Europa Universalis III Complete",
         "size": 5
     },
     "25890": {
@@ -324,11 +324,11 @@
         "size": 5
     },
     "33680": {
-        "name": "Eversion",
+        "name": "eversion",
         "size": 6
     },
     "34030": {
-        "name": "Total War: NAPOLEON - Definitive Edition",
+        "name": "Total War: NAPOLEON – Definitive Edition",
         "size": 6
     },
     "34270": {
@@ -344,11 +344,11 @@
         "size": 5
     },
     "35140": {
-        "name": "Batman: Arkham Asylum GOTY Edition",
+        "name": "Batman: Arkham Asylum Game of the Year Edition",
         "size": 5
     },
     "35450": {
-        "name": "Rising Storm/Red Orchestra 2 Multiplayer",
+        "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
         "size": 10
     },
     "35700": {
@@ -356,7 +356,7 @@
         "size": 8
     },
     "35720": {
-        "name": "Trine 2",
+        "name": "Trine 2: Complete Story",
         "size": 5
     },
     "37000": {
@@ -380,7 +380,7 @@
         "size": 9
     },
     "40390": {
-        "name": "Risen 2 - Dark Waters",
+        "name": "Risen 2: Dark Waters",
         "size": 7
     },
     "40400": {
@@ -472,7 +472,7 @@
         "size": 10
     },
     "45100": {
-        "name": "Secret of the Magic Crystal",
+        "name": "Secret of the Magic Crystals",
         "size": 8
     },
     "45400": {
@@ -492,7 +492,7 @@
         "size": 7
     },
     "45760": {
-        "name": "Ultra Street Fighter IV",
+        "name": "Ultra Street Fighter® IV",
         "size": 10
     },
     "45770": {
@@ -612,7 +612,7 @@
         "size": 15
     },
     "65300": {
-        "name": "Dustforce",
+        "name": "Dustforce DX",
         "size": 8
     },
     "65800": {
@@ -624,7 +624,7 @@
         "size": 8
     },
     "65980": {
-        "name": "Sid Meier's Civilization: Beyond Earth",
+        "name": "Sid Meier's Civilization®: Beyond Earth™",
         "size": 8
     },
     "70000": {
@@ -692,7 +692,7 @@
         "size": 6
     },
     "91200": {
-        "name": "Anomaly Warzone Earth",
+        "name": "Anomaly: Warzone Earth",
         "size": 6
     },
     "91310": {
@@ -712,7 +712,7 @@
         "size": 5
     },
     "92300": {
-        "name": "A.R.E.S.",
+        "name": "A.R.E.S.: Extinction Agenda",
         "size": 6
     },
     "92800": {
@@ -724,7 +724,7 @@
         "size": 5
     },
     "94300": {
-        "name": "The Dream Machine",
+        "name": "The Dream Machine: Chapter 1 & 2",
         "size": 6
     },
     "94400": {
@@ -744,7 +744,7 @@
         "size": 5
     },
     "96100": {
-        "name": "Defy Gravity",
+        "name": "Defy Gravity Extended",
         "size": 5
     },
     "96200": {
@@ -808,7 +808,7 @@
         "size": 9
     },
     "105800": {
-        "name": "PixelJunk Eden",
+        "name": "PixelJunk™ Eden",
         "size": 6
     },
     "107100": {
@@ -860,7 +860,7 @@
         "size": 6
     },
     "113020": {
-        "name": "Monaco",
+        "name": "Monaco: What's Yours Is Mine",
         "size": 8
     },
     "113200": {
@@ -900,7 +900,7 @@
         "size": 9
     },
     "200260": {
-        "name": "Batman: Arkham City GOTY",
+        "name": "Batman: Arkham City - Game of the Year Edition",
         "size": 7
     },
     "200510": {
@@ -940,15 +940,15 @@
         "size": 6
     },
     "202170": {
-        "name": "Sleeping Dogs™",
+        "name": "Sleeping Dogs",
         "size": 8
     },
     "202990": {
-        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "name": "Call of Duty®: Black Ops II",
         "size": 10
     },
     "203140": {
-        "name": "Hitman: Absolution",
+        "name": "Hitman: Absolution™",
         "size": 9
     },
     "203160": {
@@ -956,7 +956,7 @@
         "size": 7
     },
     "203210": {
-        "name": "Titan Attacks",
+        "name": "Titan Attacks!",
         "size": 5
     },
     "203290": {
@@ -1000,11 +1000,11 @@
         "size": 14
     },
     "204360": {
-        "name": "Castle Crashers",
+        "name": "Castle Crashers®",
         "size": 6
     },
     "204450": {
-        "name": "Call of Juarez Gunslinger",
+        "name": "Call of Juarez: Gunslinger",
         "size": 9
     },
     "204530": {
@@ -1016,7 +1016,7 @@
         "size": 15
     },
     "204880": {
-        "name": "Sins of a Solar Empire: Rebellion",
+        "name": "Sins of a Solar Empire®: Rebellion",
         "size": 15
     },
     "205060": {
@@ -1060,15 +1060,15 @@
         "size": 8
     },
     "206210": {
-        "name": "Gotham City Impostors: Free To Play",
+        "name": "Gotham City Impostors Free to Play",
         "size": 5
     },
     "206370": {
-        "name": "Tales from Space: Mutant Blobs Attack",
+        "name": "Tales From Space: Mutant Blobs Attack",
         "size": 8
     },
     "206420": {
-        "name": "Saints Row IV",
+        "name": "Saints Row IV: Re-Elected",
         "size": 8
     },
     "206440": {
@@ -1096,7 +1096,7 @@
         "size": 6
     },
     "207230": {
-        "name": "Archeblade",
+        "name": "ArcheBlade™",
         "size": 8
     },
     "207320": {
@@ -1128,7 +1128,7 @@
         "size": 7
     },
     "207530": {
-        "name": "Noitu Love 2 Devolution",
+        "name": "Noitu Love 2: Devolution",
         "size": 6
     },
     "207610": {
@@ -1192,7 +1192,7 @@
         "size": 10
     },
     "209170": {
-        "name": "Call of Duty: Ghosts - Multiplayer",
+        "name": "Call of Duty®: Ghosts",
         "size": 11
     },
     "209190": {
@@ -1352,7 +1352,7 @@
         "size": 9
     },
     "214570": {
-        "name": "Ether Vapor Remaster",
+        "name": "ETHER VAPOR Remaster",
         "size": 6
     },
     "214590": {
@@ -1384,7 +1384,7 @@
         "size": 15
     },
     "215100": {
-        "name": "Ragnarok",
+        "name": "Ragnarok Online",
         "size": 8
     },
     "215280": {
@@ -1488,7 +1488,7 @@
         "size": 8
     },
     "218410": {
-        "name": "Defender's Quest: Valley of the Forgotten",
+        "name": "Defender's Quest: Valley of the Forgotten (DX edition)",
         "size": 5
     },
     "218450": {
@@ -1512,7 +1512,7 @@
         "size": 7
     },
     "218820": {
-        "name": "Mercenary Kings",
+        "name": "Mercenary Kings: Reloaded Edition",
         "size": 7
     },
     "219150": {
@@ -1532,7 +1532,7 @@
         "size": 8
     },
     "219700": {
-        "name": "Dogs of War Online - Beta",
+        "name": "Dogs of War Online",
         "size": 6
     },
     "219740": {
@@ -1564,11 +1564,11 @@
         "size": 8
     },
     "220260": {
-        "name": "Farming Simulator 2013",
+        "name": "Farming Simulator 2013 Titanium Edition",
         "size": 6
     },
     "220440": {
-        "name": "DmC Devil May Cry",
+        "name": "DmC: Devil May Cry",
         "size": 5
     },
     "220460": {
@@ -1612,11 +1612,11 @@
         "size": 5
     },
     "221380": {
-        "name": "Age of Empires II (2013)",
+        "name": "Age of Empires II (Retired)",
         "size": 8
     },
     "221540": {
-        "name": "Defense Grid 2",
+        "name": "DG2: Defense Grid 2",
         "size": 9
     },
     "221640": {
@@ -1624,7 +1624,7 @@
         "size": 6
     },
     "221680": {
-        "name": "Rocksmith® 2014 Edition - Remastered",
+        "name": "Rocksmith® 2014 Edition REMASTERED LEARN & PLAY",
         "size": 7
     },
     "222140": {
@@ -1664,7 +1664,7 @@
         "size": 7
     },
     "222750": {
-        "name": "Wargame: AirLand Battle",
+        "name": "Wargame: Airland Battle",
         "size": 6
     },
     "222880": {
@@ -1720,7 +1720,7 @@
         "size": 11
     },
     "223730": {
-        "name": "FLY'N",
+        "name": "Fly'N",
         "size": 5
     },
     "223810": {
@@ -1764,7 +1764,7 @@
         "size": 6
     },
     "224540": {
-        "name": "Ace of Spades",
+        "name": "Ace of Spades: Battle Builder",
         "size": 6
     },
     "224600": {
@@ -1804,7 +1804,7 @@
         "size": 8
     },
     "225260": {
-        "name": "Brütal Legend",
+        "name": "Brutal Legend",
         "size": 15
     },
     "225280": {
@@ -1852,7 +1852,7 @@
         "size": 6
     },
     "226720": {
-        "name": "Lost Planet 3",
+        "name": "LOST PLANET® 3",
         "size": 8
     },
     "226740": {
@@ -2072,7 +2072,7 @@
         "size": 6
     },
     "231740": {
-        "name": "Knights of Pen and Paper +1",
+        "name": "Knights of Pen and Paper +1 Edition",
         "size": 6
     },
     "232050": {
@@ -2132,7 +2132,7 @@
         "size": 6
     },
     "233290": {
-        "name": "MURDERED: SOUL SUSPECT™",
+        "name": "Murdered: Soul Suspect",
         "size": 7
     },
     "233350": {
@@ -2176,7 +2176,7 @@
         "size": 5
     },
     "233980": {
-        "name": "Unepic",
+        "name": "UnEpic",
         "size": 6
     },
     "234000": {
@@ -2208,7 +2208,7 @@
         "size": 5
     },
     "234490": {
-        "name": "Rush Bros",
+        "name": "Rush Bros.",
         "size": 5
     },
     "234530": {
@@ -2240,7 +2240,7 @@
         "size": 9
     },
     "235210": {
-        "name": "Strider",
+        "name": "STRIDER™ / ストライダー飛竜®",
         "size": 9
     },
     "235250": {
@@ -2340,7 +2340,7 @@
         "size": 9
     },
     "237630": {
-        "name": "DuckTales Remastered",
+        "name": "DuckTales: Remastered",
         "size": 7
     },
     "237740": {
@@ -2408,7 +2408,7 @@
         "size": 8
     },
     "238460": {
-        "name": "BattleBlock Theater",
+        "name": "BattleBlock Theater®",
         "size": 9
     },
     "238630": {
@@ -2428,7 +2428,7 @@
         "size": 6
     },
     "238930": {
-        "name": "7 Grand Steps, Step 1: What Ancients Begat",
+        "name": "7 Grand Steps: What Ancients Begat",
         "size": 8
     },
     "238960": {
@@ -2492,7 +2492,7 @@
         "size": 6
     },
     "240760": {
-        "name": "Wasteland 2",
+        "name": "Wasteland 2: Director's Cut",
         "size": 15
     },
     "240970": {
@@ -2612,11 +2612,11 @@
         "size": 7
     },
     "243200": {
-        "name": "Memoria",
+        "name": "The Dark Eye: Memoria",
         "size": 8
     },
     "243280": {
-        "name": "Poof",
+        "name": "Poöf",
         "size": 5
     },
     "243300": {
@@ -2656,11 +2656,11 @@
         "size": 6
     },
     "244070": {
-        "name": "Sid Meier's Ace Patrol",
+        "name": "Sid Meier’s Ace Patrol",
         "size": 8
     },
     "244090": {
-        "name": "Sid Meier's Ace Patrol: Pacific Skies",
+        "name": "Sid Meier’s Ace Patrol: Pacific Skies",
         "size": 9
     },
     "244160": {
@@ -2964,11 +2964,11 @@
         "size": 8
     },
     "249870": {
-        "name": "Scribblenauts Unmasked",
+        "name": "Scribblenauts Unmasked: A DC Comics Adventure",
         "size": 13
     },
     "249990": {
-        "name": "FORCED",
+        "name": "FORCED: Slightly Better Edition",
         "size": 5
     },
     "250030": {
@@ -2976,11 +2976,11 @@
         "size": 6
     },
     "250050": {
-        "name": "Life Goes On",
+        "name": "Life Goes On: Done to Death",
         "size": 6
     },
     "250110": {
-        "name": "Assault Android Cactus",
+        "name": "Assault Android Cactus+",
         "size": 7
     },
     "250180": {
@@ -3020,7 +3020,7 @@
         "size": 6
     },
     "250620": {
-        "name": "Among the Sleep",
+        "name": "Among the Sleep - Enhanced Edition",
         "size": 6
     },
     "250640": {
@@ -3032,11 +3032,11 @@
         "size": 6
     },
     "250720": {
-        "name": "Starlight Inception",
+        "name": "Starlight Inception™",
         "size": 9
     },
     "250740": {
-        "name": "Ragnarok Online - Free to Play - European Version",
+        "name": "Ragnarok Online",
         "size": 8
     },
     "250760": {
@@ -3132,7 +3132,7 @@
         "size": 8
     },
     "251830": {
-        "name": "Stick It To The Man!",
+        "name": "Stick it to The Man!",
         "size": 7
     },
     "251850": {
@@ -3196,7 +3196,7 @@
         "size": 5
     },
     "252350": {
-        "name": "Double Dragon Neon",
+        "name": "Double Dragon: Neon",
         "size": 10
     },
     "252370": {
@@ -3448,7 +3448,7 @@
         "size": 7
     },
     "255420": {
-        "name": "Magic 2015",
+        "name": "Magic 2015 - Duels of the Planeswalkers",
         "size": 6
     },
     "255500": {
@@ -3596,7 +3596,7 @@
         "size": 8
     },
     "258970": {
-        "name": "Gauntlet™",
+        "name": "Gauntlet™ Slayer Edition",
         "size": 6
     },
     "259020": {
@@ -3616,7 +3616,7 @@
         "size": 7
     },
     "259390": {
-        "name": "Ballpoint Universe: Infinite",
+        "name": "Ballpoint Universe - Infinite",
         "size": 11
     },
     "259410": {
@@ -3680,11 +3680,11 @@
         "size": 8
     },
     "260130": {
-        "name": "Agarest Zero",
+        "name": "Agarest: Generations of War Zero",
         "size": 8
     },
     "260160": {
-        "name": "The Last Tinker: City of Colors",
+        "name": "The Last Tinker™: City of Colors",
         "size": 8
     },
     "260230": {
@@ -3720,7 +3720,7 @@
         "size": 8
     },
     "261110": {
-        "name": "Killer is Dead",
+        "name": "Killer is Dead - Nightmare Edition",
         "size": 6
     },
     "261180": {
@@ -4000,7 +4000,7 @@
         "size": 7
     },
     "264240": {
-        "name": "CONSORTIUM 2014",
+        "name": "CONSORTIUM",
         "size": 6
     },
     "264260": {
@@ -4012,7 +4012,7 @@
         "size": 5
     },
     "264300": {
-        "name": "Guns'N'Zombies",
+        "name": "Guns n Zombies",
         "size": 6
     },
     "264320": {
@@ -4072,7 +4072,7 @@
         "size": 5
     },
     "265300": {
-        "name": "Lords Of The Fallen",
+        "name": "Lords Of The Fallen™ 2014",
         "size": 5
     },
     "265330": {
@@ -4140,7 +4140,7 @@
         "size": 5
     },
     "266050": {
-        "name": "Into the Dark",
+        "name": "Into the Dark: Ultimate Trash Edition",
         "size": 7
     },
     "266110": {
@@ -4184,7 +4184,7 @@
         "size": 8
     },
     "266490": {
-        "name": "Lili: Child of Geos",
+        "name": "Lili: Child of Geos - Complete Edition",
         "size": 8
     },
     "266510": {
@@ -4360,7 +4360,7 @@
         "size": 7
     },
     "269530": {
-        "name": "Voice Of Pripyat",
+        "name": "Voice of Pripyat",
         "size": 8
     },
     "269630": {
@@ -4412,7 +4412,7 @@
         "size": 8
     },
     "270090": {
-        "name": "N.P.P.D. RUSH - The milk of Ultra violet",
+        "name": "//N.P.P.D. RUSH//- The milk of Ultraviolet",
         "size": 5
     },
     "270150": {
@@ -4460,7 +4460,7 @@
         "size": 5
     },
     "270570": {
-        "name": "Reversion - The Escape",
+        "name": "Reversion - The Escape (1st Chapter)",
         "size": 9
     },
     "270610": {
@@ -4576,7 +4576,7 @@
         "size": 9
     },
     "273240": {
-        "name": "Armored Hunter GUNHOUND EX",
+        "name": "Gunhound EX",
         "size": 8
     },
     "273350": {
@@ -4600,7 +4600,7 @@
         "size": 7
     },
     "274130": {
-        "name": "Rambo The Video Game",
+        "name": "Rambo The Video Game + Baker Team DLC",
         "size": 6
     },
     "274190": {
@@ -4804,7 +4804,7 @@
         "size": 8
     },
     "278930": {
-        "name": "Gigantic Army",
+        "name": "GIGANTIC ARMY",
         "size": 7
     },
     "279140": {
@@ -4832,7 +4832,7 @@
         "size": 6
     },
     "279580": {
-        "name": "Devil's Dare",
+        "name": "Devil's Dare 悪魔の挑戦",
         "size": 6
     },
     "279640": {
@@ -4928,7 +4928,7 @@
         "size": 15
     },
     "280890": {
-        "name": "GhostshipAftermath",
+        "name": "Ghostship Aftermath",
         "size": 15
     },
     "280910": {
@@ -4940,7 +4940,7 @@
         "size": 15
     },
     "281060": {
-        "name": "Reversion - The Meeting",
+        "name": "Reversion - The Meeting (2nd Chapter)",
         "size": 8
     },
     "281080": {
@@ -4956,7 +4956,7 @@
         "size": 13
     },
     "281220": {
-        "name": "BloodRayne: Betrayal (Legacy)",
+        "name": "BloodRayne Betrayal (Legacy)",
         "size": 15
     },
     "281370": {
@@ -5344,7 +5344,7 @@
         "size": 9
     },
     "286810": {
-        "name": "Hard Truck: Apocalypse Rise Of Clans / Ex Machina: Meridian 113",
+        "name": "Hard Truck Apocalypse: Rise Of Clans / Ex Machina: Meridian 113",
         "size": 7
     },
     "286830": {
@@ -5532,7 +5532,7 @@
         "size": 6
     },
     "289690": {
-        "name": "Lara Croft and the Temple of Osiris",
+        "name": "LARA CROFT AND THE TEMPLE OF OSIRIS™",
         "size": 6
     },
     "289760": {
@@ -5540,7 +5540,7 @@
         "size": 11
     },
     "289780": {
-        "name": "Requiem",
+        "name": "Requiem: Desiderium Mortis",
         "size": 8
     },
     "289890": {
@@ -5952,7 +5952,7 @@
         "size": 6
     },
     "295490": {
-        "name": "Schrödinger's Cat and the Raiders of the Lost Quark",
+        "name": "Schrodinger’s Cat And The Raiders Of The Lost Quark",
         "size": 6
     },
     "295550": {
@@ -6096,7 +6096,7 @@
         "size": 5
     },
     "297100": {
-        "name": "Beyond Space",
+        "name": "Beyond Space Remastered Edition",
         "size": 5
     },
     "297120": {
@@ -6348,7 +6348,7 @@
         "size": 8
     },
     "300760": {
-        "name": "EPSILON",
+        "name": "Epsilon",
         "size": 6
     },
     "300840": {
@@ -6396,7 +6396,7 @@
         "size": 6
     },
     "301610": {
-        "name": "OpenCanvas 6",
+        "name": "openCanvas 6",
         "size": 5
     },
     "301640": {
@@ -6692,7 +6692,7 @@
         "size": 6
     },
     "305380": {
-        "name": "Blue Estate",
+        "name": "Blue Estate The Game",
         "size": 7
     },
     "305390": {
@@ -6820,7 +6820,7 @@
         "size": 5
     },
     "307050": {
-        "name": "Shan Gui",
+        "name": "Shan Gui (山桂)",
         "size": 5
     },
     "307070": {
@@ -7048,7 +7048,7 @@
         "size": 9
     },
     "310850": {
-        "name": "Onikira: Demon Killer",
+        "name": "Onikira - Demon Killer",
         "size": 6
     },
     "310880": {
@@ -7536,7 +7536,7 @@
         "size": 11
     },
     "316030": {
-        "name": "Alice in Wonderland",
+        "name": "Disney Alice in Wonderland",
         "size": 5
     },
     "316080": {
@@ -7648,7 +7648,7 @@
         "size": 6
     },
     "317620": {
-        "name": "Space Hulk Ascension",
+        "name": "Space Hulk: Ascension",
         "size": 6
     },
     "317710": {
@@ -7736,7 +7736,7 @@
         "size": 10
     },
     "319170": {
-        "name": "G-Force",
+        "name": "Disney G-Force",
         "size": 5
     },
     "319180": {
@@ -7820,7 +7820,7 @@
         "size": 6
     },
     "320150": {
-        "name": "Deadlings - Rotten Edition",
+        "name": "Deadlings: Rotten Edition",
         "size": 6
     },
     "320240": {
@@ -7908,7 +7908,7 @@
         "size": 6
     },
     "321190": {
-        "name": "Cho Dengeki Stryker",
+        "name": "Cho Dengeki Stryker All Ages Version",
         "size": 8
     },
     "321260": {
@@ -7964,7 +7964,7 @@
         "size": 6
     },
     "321960": {
-        "name": "Might & Magic Heroes VII",
+        "name": "Might & Magic® Heroes® VII",
         "size": 6
     },
     "321980": {
@@ -8188,7 +8188,7 @@
         "size": 7
     },
     "325320": {
-        "name": "Mythos: The Beginning",
+        "name": "Mythos: The Beginning - Director's Cut",
         "size": 5
     },
     "325370": {
@@ -8456,7 +8456,7 @@
         "size": 9
     },
     "329110": {
-        "name": "Gems of War",
+        "name": "Gems of War - Puzzle RPG",
         "size": 9
     },
     "329130": {
@@ -8472,7 +8472,7 @@
         "size": 7
     },
     "329380": {
-        "name": "Stealth Inc 2",
+        "name": "Stealth Inc 2: A Game of Clones",
         "size": 6
     },
     "329430": {
@@ -8660,7 +8660,7 @@
         "size": 15
     },
     "331760": {
-        "name": "Supreme League of Patriots Issue 1: A Patriot Is Born",
+        "name": "Supreme League of Patriots",
         "size": 10
     },
     "331790": {
@@ -8876,7 +8876,7 @@
         "size": 7
     },
     "333980": {
-        "name": "AKIBA'S TRIP: Undead & Undressed",
+        "name": "AKIBA'S TRIP: Undead ＆ Undressed",
         "size": 7
     },
     "334030": {
@@ -9156,11 +9156,11 @@
         "size": 13
     },
     "336710": {
-        "name": "Supreme League of Patriots Issue 2: Patriot Frames",
+        "name": "Supreme League of Patriots - Episode 2: Patriot Frames",
         "size": 10
     },
     "336730": {
-        "name": "Supreme League of Patriots Issue 3: Ice Cold in Ellis",
+        "name": "Supreme League of Patriots - Episode 3: Ice Cold in Ellis",
         "size": 10
     },
     "336840": {
@@ -9396,7 +9396,7 @@
         "size": 6
     },
     "339280": {
-        "name": "Strife",
+        "name": "Strife®",
         "size": 8
     },
     "339290": {
@@ -10020,7 +10020,7 @@
         "size": 5
     },
     "344630": {
-        "name": "Princess Evangile",
+        "name": "Princess Evangile All Ages Version",
         "size": 8
     },
     "344750": {
@@ -10056,7 +10056,7 @@
         "size": 6
     },
     "344910": {
-        "name": "Sun Blast",
+        "name": "Sun Blast: Star Fighter",
         "size": 5
     },
     "345060": {
@@ -10444,7 +10444,7 @@
         "size": 6
     },
     "348650": {
-        "name": "The Asskickers",
+        "name": "The Asskickers-Steam Edition",
         "size": 6
     },
     "348670": {
@@ -10520,7 +10520,7 @@
         "size": 15
     },
     "349320": {
-        "name": "The Rainy Port Keelung",
+        "name": "The Rainy Port Keelung 雨港基隆",
         "size": 6
     },
     "349440": {
@@ -10828,7 +10828,7 @@
         "size": 5
     },
     "352610": {
-        "name": "The Way We ALL GO",
+        "name": "The Way We All Go",
         "size": 7
     },
     "352620": {
@@ -10944,7 +10944,7 @@
         "size": 6
     },
     "354050": {
-        "name": "Starlight Tactics",
+        "name": "Starlight Tactics™",
         "size": 15
     },
     "354160": {
@@ -11012,7 +11012,7 @@
         "size": 5
     },
     "354950": {
-        "name": "East Tower - Akio (ET Series Vol. 1)",
+        "name": "East Tower - Akio (East Tower Series Vol. 1)",
         "size": 5
     },
     "354960": {
@@ -11084,7 +11084,7 @@
         "size": 5
     },
     "355430": {
-        "name": "SNOWFLAKE TATTOO",
+        "name": "//SNOWFLAKE TATTOO//",
         "size": 5
     },
     "355510": {
@@ -11220,7 +11220,7 @@
         "size": 5
     },
     "356540": {
-        "name": "East Tower - Takashi (ET Series Vol. 2)",
+        "name": "East Tower - Takashi (East Tower Series Vol. 2)",
         "size": 5
     },
     "356550": {
@@ -11352,7 +11352,7 @@
         "size": 8
     },
     "357890": {
-        "name": "Vortex Attack",
+        "name": "Vortex Attack: ボルテックスアタック",
         "size": 6
     },
     "357900": {
@@ -11536,7 +11536,7 @@
         "size": 5
     },
     "360010": {
-        "name": "Remnants of Isolation",
+        "name": "Remnants Of Isolation",
         "size": 6
     },
     "360030": {
@@ -11864,7 +11864,7 @@
         "size": 8
     },
     "363580": {
-        "name": "PING 1.5+",
+        "name": "PING 1.5+™",
         "size": 6
     },
     "363600": {
@@ -12052,7 +12052,7 @@
         "size": 6
     },
     "365280": {
-        "name": "Alexia Crow",
+        "name": "Alexia Crow and the Cave of Heroes",
         "size": 6
     },
     "365290": {
@@ -12940,7 +12940,7 @@
         "size": 5
     },
     "373420": {
-        "name": "Divinity: Original Sin Enhanced Edition",
+        "name": "Divinity: Original Sin - Enhanced Edition",
         "size": 6
     },
     "373440": {
@@ -12952,11 +12952,11 @@
         "size": 8
     },
     "373600": {
-        "name": "Weapon of Choice",
+        "name": "Weapon of Choice DX",
         "size": 6
     },
     "373610": {
-        "name": "Shoot 1UP",
+        "name": "Shoot 1UP DX",
         "size": 6
     },
     "373620": {
@@ -12964,7 +12964,7 @@
         "size": 5
     },
     "373630": {
-        "name": "Game Type",
+        "name": "Game Type DX",
         "size": 5
     },
     "373650": {
@@ -13048,7 +13048,7 @@
         "size": 9
     },
     "374640": {
-        "name": "March of Industry",
+        "name": "March of Industry: Very Capitalist Factory Simulator Entertainments",
         "size": 5
     },
     "374670": {
@@ -14712,7 +14712,7 @@
         "size": 5
     },
     "391340": {
-        "name": "Ferrum's Secrets: where is grandpa?",
+        "name": "Ferrum's Secrets: Where Is Grandpa?",
         "size": 6
     },
     "391390": {
@@ -16132,11 +16132,11 @@
         "size": 6
     },
     "407230": {
-        "name": "Legend of Mysteria",
+        "name": "Legend of Mysteria RPG",
         "size": 5
     },
     "407290": {
-        "name": "There Was a Caveman",
+        "name": "There Was A Caveman",
         "size": 6
     },
     "407300": {
@@ -49740,7 +49740,7 @@
         "size": 5
     },
     "1781890": {
-        "name": "1781890",
+        "name": "The Coma 2B: Catacomb",
         "size": 13
     },
     "1782120": {
@@ -52524,7 +52524,7 @@
         "size": 13
     },
     "2373440": {
-        "name": "2373440",
+        "name": "Miners Settlement",
         "size": 10
     },
     "2374190": {
@@ -53008,7 +53008,7 @@
         "size": 6
     },
     "2507950": {
-        "name": "2507950",
+        "name": "Delta Force",
         "size": 7
     },
     "2508770": {
@@ -53608,7 +53608,7 @@
         "size": 6
     },
     "2748830": {
-        "name": "2748830",
+        "name": "Seedsow Lullaby",
         "size": 7
     },
     "2749000": {
