@@ -1532,7 +1532,7 @@
         "size": 8
     },
     "219700": {
-        "name": "Dogs of War Online",
+        "name": "Dogs of War Online - Beta",
         "size": 6
     },
     "219740": {
@@ -3684,7 +3684,7 @@
         "size": 8
     },
     "260160": {
-        "name": "The Last Tinker™: City of Colors",
+        "name": "The Last Tinker: City of Colors",
         "size": 8
     },
     "260230": {
@@ -25140,7 +25140,7 @@
         "size": 5
     },
     "511670": {
-        "name": "Marwin and The Evolution Stone",
+        "name": "MRWN",
         "size": 5
     },
     "511680": {
@@ -42178,6 +42178,10 @@
     "1057540": {
         "name": "Cthulhu Saves Christmas",
         "size": 9
+    },
+    "1057780": {
+        "name": "Jump Off The Bridge",
+        "size": 7
     },
     "1057800": {
         "name": "Floppy Knights",
