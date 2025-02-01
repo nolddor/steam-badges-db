@@ -9,7 +9,11 @@ async function main () {
   Logger.info('Connecting to SteamCardExchange...')
   const sce = await SteamCardExchange.getBadges()
   const cache = JSONStorage.readSync(EFolders.DATA, EFiles.BADGES)
+
   const badges = { ...cache, ...sce }
+  const badgesSlim = Object.fromEntries(
+    Object.entries(badges).map(([k, v]) => [k, v.size])
+  )
 
   const count = Object.keys(badges).length
   const countAsString = count.toLocaleString(ELocales.en_US)
@@ -17,6 +21,7 @@ async function main () {
 
   JSONStorage.writeSync(EFolders.DATA, EFiles.BADGES, badges, { minify: false })
   JSONStorage.writeSync(EFolders.DATA, EFiles.BADGES_MIN, badges)
+  JSONStorage.writeSync(EFolders.DATA, EFiles.BADGES_SLIM, badgesSlim)
 }
 
 main()
