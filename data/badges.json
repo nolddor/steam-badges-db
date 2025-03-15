@@ -39260,7 +39260,7 @@
         "size": 14
     },
     "843810": {
-        "name": "完美的一天 / A Perfect Day",
+        "name": "A Perfect Day",
         "size": 8
     },
     "844050": {
@@ -47624,7 +47624,7 @@
         "size": 8
     },
     "1478160": {
-        "name": "Nyaruru Fishy Fight (咸鱼喵喵)",
+        "name": "Nyaruru Fishy Fight",
         "size": 13
     },
     "1478650": {
@@ -51800,7 +51800,7 @@
         "size": 5
     },
     "2143680": {
-        "name": "梦灯花",
+        "name": "Noctuary",
         "size": 9
     },
     "2144590": {
@@ -51960,7 +51960,7 @@
         "size": 5
     },
     "2178420": {
-        "name": "트리 오브 세이비어",
+        "name": "Tree of Savior (Korean Ver.)",
         "size": 7
     },
     "2178480": {
@@ -54136,7 +54136,7 @@
         "size": 6
     },
     "2748830": {
-        "name": "たねつみの歌",
+        "name": "Seedsow Lullaby",
         "size": 7
     },
     "2749000": {
@@ -54882,5 +54882,9 @@
     "3446120": {
         "name": "Kira☆Kano",
         "size": 6
+    },
+    "3447690": {
+        "name": "iDigging",
+        "size": 5
     }
 }
