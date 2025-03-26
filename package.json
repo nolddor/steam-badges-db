@@ -20,7 +20,7 @@
     "npm": ">=9.0.0"
   },
   "dependencies": {
-    "html-entities": "2.5.2",
+    "html-entities": "2.5.3",
     "winston": "3.17.0"
   },
   "devDependencies": {
