@@ -23776,7 +23776,7 @@
         "size": 5
     },
     "496980": {
-        "name": "Cosmic Cavern 3671　　宇宙最大の地底最大の作戦",
+        "name": "Cosmic Cavern 3671宇宙最大の地底最大の作戦",
         "size": 5
     },
     "496990": {
@@ -47118,6 +47118,10 @@
     "1416230": {
         "name": "Panzer Knights",
         "size": 10
+    },
+    "1416960": {
+        "name": "Everafter Falls",
+        "size": 5
     },
     "1418100": {
         "name": "Swords of Legends Online",
