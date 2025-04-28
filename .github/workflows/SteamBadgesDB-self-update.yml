@@ -20,6 +20,8 @@ jobs:
           with:
             node-version: 'lts/*'
             check-latest: true
+        - name: Setup NPM
+          run: npm install -g npm@latest
 
         - name: Verify Node.js Version
           run: node --version
