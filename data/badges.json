@@ -47815,6 +47815,10 @@
         "name": "Intravenous",
         "size": 5
     },
+    "1486920": {
+        "name": "Tempest Rising",
+        "size": 8
+    },
     "1487270": {
         "name": "Last Command",
         "size": 9
@@ -55000,7 +55004,7 @@
         "size": 5
     },
     "3015620": {
-        "name": "Welcome Back, Commander",
+        "name": "Welcome Back Commander",
         "size": 5
     },
     "3016750": {
