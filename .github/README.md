@@ -34,6 +34,8 @@ File **[badges.json](https://github.com/nolddor/steam-badges-db/raw/main/data/ba
 ```
 Alternatively, you might consider using **[badges.slim.json](https://github.com/nolddor/steam-badges-db/raw/main/data/badges.slim.json)** file as your source data on those workloads in which you do not require the `name` attribute to operate.
 
+Refer to __[our Wiki](https://github.com/nolddor/steam-badges-db/wiki)__ section for further details about the purpose of each file and its sctructure.
+
 ---
 ### Usage
 
