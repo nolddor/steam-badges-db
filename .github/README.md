@@ -39,7 +39,9 @@ Alternatively, you might consider using **[badges.slim.json](https://github.com/
 
 _Steam Badges DB_ data is widely available and can be retrieved on a great variety of ways, from your terminal to your custom crafted scripts. See examples about most common use cases below:
 <div align="center">
+
 [CLI](https://github.com/nolddor/steam-badges-db/wiki#cli) | [Node.js](https://github.com/nolddor/steam-badges-db/wiki#nodejs) | [Java](https://github.com/nolddor/steam-badges-db/wiki#java) | [C#](https://github.com/nolddor/steam-badges-db/wiki#c) | [Python](https://github.com/nolddor/steam-badges-db/wiki#python) | [Ruby](https://github.com/nolddor/steam-badges-db/wiki#ruby)
+
 </div>
 
 ---
