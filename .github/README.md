@@ -38,82 +38,9 @@ Alternatively, you might consider using **[badges.slim.json](https://github.com/
 ### Usage
 
 _Steam Badges DB_ data is widely available and can be retrieved on a great variety of ways, from your terminal to your custom crafted scripts. See examples about most common use cases below:
-
-#### CLI
-```
-curl -L https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json
-```
-
-#### Node.js
-```
-const axios = require('axios');
-
-axios.get('https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json')
-    .then(function (response) {
-        const badgesdb = response.data;
-        // Your code goes here
-    });
-```
-
-#### Java
-```
-import kong.unirest.*;
-
-public class Main {
-    public static void main(String[] args) {
-        String url = "https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json";
-	HttpResponse<JsonNode> response = Unirest.get(url).asJson();
-	JsonNode badgesdb = response.getBody();
-	// Your code goes here
-    }
-}
-```
-
-#### C#
-```
-using System;
-using System.Net.Http;
-using System.Threading.Tasks;
-using System.Text.Json;
-using System.Collections.Generic;
-					
-public class Program
-{
-	public class SteamBadge
-	{
-	        public int size { get; set; }
-		public string name { get; set; }
-	}
-	
-	public static async Task Main()
-	{
-		Uri endpoint = new Uri("https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json");
-		HttpClient client = new();		
-		string jsonAsString = await client.GetStringAsync(endpoint);
-		Dictionary<string, SteamBadge> badgesdb = JsonSerializer.Deserialize<Dictionary<string, SteamBadge>>(jsonAsString);
-		// Your code goes here
-	}
-}
-```
-
-#### Python
-```
-import requests
-
-response = requests.get("https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json")
-badgesdb = response.json()
-// Your code goes here
-```
-
-#### Ruby
-```
-require 'httparty'
-
-url = 'https://github.com/nolddor/steam-badges-db/raw/main/data/badges.min.json'
-response = HTTParty.get(url, format: :json)
-badgesdb = response.parsed_response
-// Your code goes here
-```
+<div align="center">
+[CLI](https://github.com/nolddor/steam-badges-db/wiki#cli) | [Node.js](https://github.com/nolddor/steam-badges-db/wiki#nodejs) | [Java](https://github.com/nolddor/steam-badges-db/wiki#java) | [C#](https://github.com/nolddor/steam-badges-db/wiki#c) | [Python](https://github.com/nolddor/steam-badges-db/wiki#python) | [Ruby](https://github.com/nolddor/steam-badges-db/wiki#ruby)
+</div>
 
 ---
 Made with :heart: by [Jack Nolddor](https://steamcommunity.com/id/nolddor)
