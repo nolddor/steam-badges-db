@@ -40,7 +40,7 @@ jobs:
           if: steps.cache.outputs.cache-hit != 'true'
           run: npm ci --production
 
-        - name: Run SteamCardExchange Scrapper
+        - name: Run Scrapper
           run: npm start
 
         - name: Sync Changes
