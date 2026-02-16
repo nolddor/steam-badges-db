@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "eslint": "9.39.2",
-    "eslint-plugin-jest": "29.13.0",
+    "eslint-plugin-jest": "29.14.0",
     "jest": "30.2.0",
     "memfs": "4.56.10",
     "neostandard": "0.12.2",
