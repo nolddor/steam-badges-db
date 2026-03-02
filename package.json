@@ -24,7 +24,7 @@
     "winston": "3.19.0"
   },
   "devDependencies": {
-    "eslint": "9.39.3",
+    "eslint": "10.0.2",
     "eslint-plugin-jest": "29.15.0",
     "jest": "30.2.0",
     "memfs": "4.56.10",
