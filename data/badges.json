@@ -47224,7 +47224,7 @@
         "size": 5
     },
     "1381770": {
-        "name": "Fortune Summoners: Secret of the Elemental Stone",
+        "name": "Fortune Summoners",
         "size": 8
     },
     "1381850": {
@@ -58575,6 +58575,10 @@
         "name": "Monster Girls Onsen",
         "size": 5
     },
+    "3918850": {
+        "name": "Might & Magic Fates - Heroes TCG",
+        "size": 15
+    },
     "3920170": {
         "name": "Lust Effect [18+]",
         "size": 5
@@ -58734,5 +58738,9 @@
     "4172560": {
         "name": "Battle Simulator: Counter Terrorist",
         "size": 6
+    },
+    "4268610": {
+        "name": "Isekai Sex Kingdom 👑",
+        "size": 5
     }
 }
