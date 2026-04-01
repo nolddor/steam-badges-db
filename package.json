@@ -16,8 +16,8 @@
   "author": "Jack Nolddor",
   "license": "Apache License 2.0",
   "engines": {
-    "node": "22 || >=24",
-    "npm": ">=9.6.0"
+    "node": ">=24.0.0",
+    "npm": ">=11.3.0"
   },
   "dependencies": {
     "html-entities": "2.6.0",

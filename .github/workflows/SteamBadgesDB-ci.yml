@@ -11,7 +11,6 @@ jobs:
       fail-fast: false
       matrix:
         os: [ubuntu-latest]
-        node: [22, 24]
 
     runs-on: ${{ matrix.os }}
     timeout-minutes: 5
@@ -25,7 +24,7 @@ jobs:
     - name: Setup Node.js v${{ matrix.node }}
       uses: actions/setup-node@v6
       with:
-        node-version: ${{ matrix.node }}
+        node-version: 'lts/*'
         check-latest: true
     - name: Setup NPM
       run: npm install -g npm@latest
