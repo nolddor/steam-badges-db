@@ -40483,6 +40483,10 @@
         "name": "Summer Catchers",
         "size": 8
     },
+    "908060": {
+        "name": "Talisman: Digital 5th Edition",
+        "size": 13
+    },
     "908070": {
         "name": "Mystic Vale",
         "size": 8
@@ -48294,6 +48298,10 @@
     "1466230": {
         "name": "The Holy Gosh Darn",
         "size": 11
+    },
+    "1466520": {
+        "name": "Omen Exitio: Hunger",
+        "size": 8
     },
     "1466640": {
         "name": "Road 96",
@@ -57679,6 +57687,10 @@
         "name": "Gunship Battle Total Warfare",
         "size": 6
     },
+    "3030190": {
+        "name": "Pandora's Toybox",
+        "size": 5
+    },
     "3030720": {
         "name": "FATE: Reawakened",
         "size": 7
@@ -57901,6 +57913,10 @@
     },
     "3096370": {
         "name": "Hyper Empire",
+        "size": 10
+    },
+    "3097300": {
+        "name": "Creature Kitchen",
         "size": 10
     },
     "3097750": {
@@ -59795,6 +59811,10 @@
         "name": "Survivor Girls Sanctuary",
         "size": 5
     },
+    "4224500": {
+        "name": "Pupple Pop",
+        "size": 8
+    },
     "4233550": {
         "name": "Brainrot Online",
         "size": 6
@@ -59898,5 +59918,9 @@
     "4731620": {
         "name": "Fortune Mill",
         "size": 5
+    },
+    "4761370": {
+        "name": "Summer Sale 2026",
+        "size": 10
     }
 }
