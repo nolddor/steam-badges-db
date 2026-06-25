@@ -3439,9 +3439,17 @@
         "name": "Resident Evil 4 (2005)",
         "size": 8
     },
+    "254760": {
+        "name": "Empire Earth: Gold Edition",
+        "size": 6
+    },
     "254780": {
         "name": "Empire Earth II: Gold Edition",
         "size": 6
+    },
+    "254800": {
+        "name": "Empire Earth III",
+        "size": 7
     },
     "254880": {
         "name": "MoonBase Commander",
@@ -58974,6 +58982,10 @@
     "3551340": {
         "name": "Football Manager 26",
         "size": 10
+    },
+    "3552140": {
+        "name": "Retro Rewind - Video Store Simulator",
+        "size": 7
     },
     "3555980": {
         "name": "Caput Mortum",
