@@ -18399,6 +18399,10 @@
         "name": "ATOM GRRRL!!",
         "size": 7
     },
+    "432540": {
+        "name": "Devil Sealing Stone",
+        "size": 5
+    },
     "432610": {
         "name": "Monumental",
         "size": 6
@@ -48111,6 +48115,10 @@
         "name": "ABYSS OF THE SACRIFICE",
         "size": 7
     },
+    "1442520": {
+        "name": "Akatori",
+        "size": 10
+    },
     "1442530": {
         "name": "Outbreak Island",
         "size": 6
@@ -58914,6 +58922,10 @@
     "3363560": {
         "name": "Shard Squad",
         "size": 10
+    },
+    "3371260": {
+        "name": "Requiem of Reuinis",
+        "size": 5
     },
     "3374460": {
         "name": "Causal Loop",
