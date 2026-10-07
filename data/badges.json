@@ -45235,6 +45235,10 @@
         "name": "Anime Artist 2: Lovely Danya",
         "size": 5
     },
+    "1221950": {
+        "name": "Nighthawks",
+        "size": 10
+    },
     "1222040": {
         "name": "Offroad Mania",
         "size": 7
@@ -61143,6 +61147,10 @@
         "name": "Stock Car Tycoon",
         "size": 5
     },
+    "5080420": {
+        "name": "Dungeon Forge",
+        "size": 5
+    },
     "5113530": {
         "name": "Megastore Chaos",
         "size": 6
@@ -61157,6 +61165,10 @@
     },
     "5180470": {
         "name": "Shadowlight",
+        "size": 5
+    },
+    "5204580": {
+        "name": "Echoes of a Strange World",
         "size": 5
     }
 }
