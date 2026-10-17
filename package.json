@@ -28,7 +28,7 @@
     "eslint-plugin-jest": "29.17.0",
     "jest": "30.5.2",
     "memfs": "4.80.0",
-    "neostandard": "0.14.0",
+    "neostandard": "0.14.1",
     "std-mocks": "2.0.0"
   }
 }
