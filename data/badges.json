@@ -41115,6 +41115,10 @@
         "name": "Pocket Rogues",
         "size": 9
     },
+    "946670": {
+        "name": "School Owner",
+        "size": 8
+    },
     "948640": {
         "name": "Wizardry: Labyrinth of Lost Souls",
         "size": 7
@@ -52792,7 +52796,7 @@
         "size": 6
     },
     "1995870": {
-        "name": "Pixel Survivors : Roguelike",
+        "name": "Pixel Survivors: Roguelike",
         "size": 8
     },
     "1995880": {
@@ -61294,6 +61298,10 @@
     "4914830": {
         "name": "Toy Shop Tidy Up",
         "size": 14
+    },
+    "4916380": {
+        "name": "The Witch: First Halloween",
+        "size": 5
     },
     "4934050": {
         "name": "Lustpunk 69",
