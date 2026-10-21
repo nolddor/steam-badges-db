@@ -58063,6 +58063,10 @@
         "name": "Outlying Islands",
         "size": 5
     },
+    "2967670": {
+        "name": "Cupiclaw",
+        "size": 6
+    },
     "2969380": {
         "name": "BAKERU",
         "size": 9
@@ -61365,6 +61369,10 @@
     },
     "5204580": {
         "name": "Echoes of a Strange World",
+        "size": 5
+    },
+    "5374730": {
+        "name": "Deep Drift Fishing",
         "size": 5
     }
 }
