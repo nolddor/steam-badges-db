@@ -10887,6 +10887,10 @@
         "name": "Catacombs of the Undercity",
         "size": 6
     },
+    "352500": {
+        "name": "Task Bar Isekai",
+        "size": 10
+    },
     "352520": {
         "name": "The Silent Age",
         "size": 5
@@ -59126,6 +59130,10 @@
     "3216500": {
         "name": "SHUTEN ORDER",
         "size": 5
+    },
+    "3218570": {
+        "name": "TANUKI: Pon's Summer",
+        "size": 6
     },
     "3218790": {
         "name": "The Little Tomb: The Maholova Club and the Search for a Dead Body",
