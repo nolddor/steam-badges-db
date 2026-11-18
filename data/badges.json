@@ -37947,6 +37947,10 @@
         "name": "Crimson Imprint plus -Nonexistent Christmas-",
         "size": 7
     },
+    "740410": {
+        "name": "Puzzle Chambers",
+        "size": 8
+    },
     "740550": {
         "name": "Record of Agarest War Mariage",
         "size": 6
@@ -53056,7 +53060,7 @@
         "size": 5
     },
     "2019300": {
-        "name": "Dokimon",
+        "name": "Dokimon Quest",
         "size": 5
     },
     "2021210": {
@@ -58833,6 +58837,10 @@
     },
     "3144640": {
         "name": "Skoof Simulator",
+        "size": 5
+    },
+    "3144950": {
+        "name": "Pet Lands",
         "size": 5
     },
     "3145320": {
