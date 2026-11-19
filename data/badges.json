@@ -58583,6 +58583,10 @@
         "name": "Rocket Rats",
         "size": 6
     },
+    "3070020": {
+        "name": "Automaton Heart",
+        "size": 6
+    },
     "3070070": {
         "name": "TCG Card Shop Simulator",
         "size": 8
@@ -61689,6 +61693,10 @@
     },
     "5374730": {
         "name": "Deep Drift Fishing",
+        "size": 5
+    },
+    "5405940": {
+        "name": "Rosaline: The Dragon Girl",
         "size": 5
     },
     "5423900": {
